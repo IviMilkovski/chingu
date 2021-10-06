@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+body{
+    font-family: 'Ibarra Real Nova', serif;
+}
+ul{
+    list-style-type: none;
+}*
+ {
+    margin: 0px;
+  padding: 0px;
+box-sizing: border-box;
+  scroll-behavior: smooth;
+  }
+  ::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 13px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgba(37, 37, 37, 0.904); 
+    border-radius: 13px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #797979d0; 
+}
+  .row{
+      margin:0px;
+  }
+  .container-fluid {
+    padding: 0px;
+  }
+  a {
+    text-decoration: none !important;
+  }
+.carousel-item img {
+    max-height: 650px;
+  }
+  #slider{
+      width: 100%;
+  }
+  .logo{
+      font-size: 27px;
+  }
+  #link{
+      color: rgb(64, 82, 187);
+  }
+  #scrollToTop
+{
+    position:fixed;
+	right:2px;
+    bottom:25px;
+    font-size: 40px;
+    padding: 10px;
+}
+#intfacts{
+    color: cornsilk;
+    background-color: rgba(91, 49, 160, 0.596);
+}
+.greska{
+    color: darkred;
+}
+#uspeh{
+    color: rgb(0, 90, 48);
+    font-size: 20px;
+    padding: 10px;
+}
+#futer{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(46, 45, 35, 0.87);
+}
+.fut{
+    width: 100%;
+}
+#kartice{
+    margin: auto;
+}
+.zve{
+    color: rgb(228, 13, 13);
+}
+#more{
+    display: none;
+}
+#dodatno{
+    width: 40%;
+    margin: auto;
+}
+#boja{
+    color: indigo;
+}
+#boja:hover{
+    color: rgb(226, 17, 245);
+}
+.fa:hover{
+    color: rgba(137, 212, 255, 0.815);
+}
+#link:hover{
+    color: rgb(71, 9, 121);
+}
